@@ -2,13 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello, if you're reading this, welcome to my portfolio. This portfolio ranges from straightforward to intermediate-skilled coding projects, showcasing an understanding of data analysis and cybersecurity fundamentals. These are only meant to showcase experience and are not fully functional due to personal information required for proper utilization and possible TOS infringements when running the script. 
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+While I have created other projects, It's not required to list them as this portfolio showcases a degree of experience and not every creation I have done. 
 
 # Header 1
 
