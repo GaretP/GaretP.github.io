@@ -2,13 +2,13 @@
 layout: default
 ---
 
-> Hello, if you're reading this, welcome to my portfolio. This portfolio ranges from straightforward to intermediate-skilled coding projects, showcasing an understanding of data analysis and cybersecurity fundamentals. These are only meant to showcase experience and are not fully functional due to personal information required for proper utilization and possible TOS infringements when running the script. 
+  Hello, if you're reading this, welcome to my portfolio. This portfolio ranges from straightforward to intermediate-skilled coding projects, showcasing an understanding of data analysis and cybersecurity fundamentals. These are only meant to showcase experience and are not fully functional due to personal information required for proper utilization and possible TOS infringements when running the script. 
 
-> While I have created other projects, It's not required to list them as this portfolio showcases a degree of experience and not every creation I have done. 
+  While I have created other projects, It's not required to list them as this portfolio showcases a degree of experience and not every creation I have done. 
 
 # Project 1: Crypto Web Scraping
 
-> This web scraping code pulls live HTML code from a website, cleans the data, title, and date, and appends the price of cryptocurrencies in a CSV file.
+  This web scraping code pulls live HTML code from a website, cleans the data, title, and date, and appends the price of cryptocurrencies in a CSV file.
 
 
 
@@ -22,9 +22,7 @@ layout: default
 
 ## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ### Header 3
 
