@@ -2,13 +2,23 @@
 layout: default
 ---
 
-Hello, if you're reading this, welcome to my portfolio. This portfolio ranges from straightforward to intermediate-skilled coding projects, showcasing an understanding of data analysis and cybersecurity fundamentals. These are only meant to showcase experience and are not fully functional due to personal information required for proper utilization and possible TOS infringements when running the script. 
+> Hello, if you're reading this, welcome to my portfolio. This portfolio ranges from straightforward to intermediate-skilled coding projects, showcasing an understanding of data analysis and cybersecurity fundamentals. These are only meant to showcase experience and are not fully functional due to personal information required for proper utilization and possible TOS infringements when running the script. 
 
-While I have created other projects, It's not required to list them as this portfolio showcases a degree of experience and not every creation I have done. 
+> While I have created other projects, It's not required to list them as this portfolio showcases a degree of experience and not every creation I have done. 
 
-# Header 1
+# Project 1: Crypto Web Scraping
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> This web scraping code pulls live HTML code from a website, cleans the data, title, and date, and appends the price of cryptocurrencies in a CSV file.
+
+
+
+> The first lines in the code are imports. There are imports for pulling HTML scripts, CSV file creation, and additional imports for expansion into new currencies.
+
+
+> Next is the base code, def bitcoin_code(); it pulls the URL's HTML script, looks for the updated price of the coin, and displays it.
+
+
+> Lastly, the code created a CSV file and appended the price in the file every day.
 
 ## Header 2
 
