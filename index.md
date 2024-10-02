@@ -10,15 +10,17 @@ layout: default
 
   This web scraping code pulls live HTML code from a website, cleans the data, title, and date, and appends the price of cryptocurrencies in a CSV file.
 
-![IMPORTS](Crypto Shot Imports.png)
-
 > The first lines in the code are imports. There are imports for pulling HTML scripts, CSV file creation, and additional imports for expansion into new currencies.
 
+![IMPORTS](Crypto Shot Imports.png)
 
 > Next is the base code, def bitcoin_code(); it pulls the URL's HTML script, looks for the updated price of the coin, and displays it.
 
+![BODY](Crypto Shot Pull.png)
 
 > Lastly, the code created a CSV file and appended the price in the file every day. The code can be further optimized, but with the simplicity of this project, it seemed redundant to do so.
+
+![APPEND](Crypto Shot Append.png)
 
 ## Header 2
 
