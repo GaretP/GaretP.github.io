@@ -18,7 +18,7 @@ layout: default
 
 ![BODY](Crypto Shot Pull.png)
 
-> Lastly, the code created a CSV file and appended the price in the file every day. The code can be further optimized, but with the simplicity of this project, it seemed redundant to do so.
+> Lastly, the code creates a CSV file and appendes the price in the file every day. The code can be further optimized, but with the simplicity of this project, it seemed redundant to do so.
 
 ![APPEND](Crypto Shot Append.png)
 
