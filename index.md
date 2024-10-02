@@ -10,7 +10,7 @@ layout: default
 
   This web scraping code pulls live HTML code from a website, cleans the data, title, and date, and appends the price of cryptocurrencies in a CSV file.
 
-Crypto Shot Imports.png
+Crypto Shot Append.png
 
 > The first lines in the code are imports. There are imports for pulling HTML scripts, CSV file creation, and additional imports for expansion into new currencies.
 
