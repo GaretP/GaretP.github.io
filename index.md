@@ -8,7 +8,7 @@ layout: default
 
 # Project 1: Crypto Web Scraping
 
-  This web scraping code pulls live HTML code from a website, cleans the data, title, and date, and appends the price of cryptocurrencies in a CSV file.
+  This web scraping code pulls live HTML code from a website, cleans the data, titles, and dates, and appends the price of cryptocurrencies in a CSV file.
 
 > The first lines in the code are imports. There are imports for pulling HTML scripts, CSV file creation, and additional imports for expansion into new currencies.
 
@@ -22,9 +22,30 @@ layout: default
 
 ![APPEND](Crypto E.png)
 
-## Header 2
+# Project 2: Wireshark Network Map
 
+  This program uses Wireshark datum and a GeoLiteCity file to locate the inbound and outbound traffic from an IP source. It converts it to a KLM file, readable for Google Maps, producing a visualized version of web traffic. 
 
+>hghghg
+
+![IMPORTS](Map I.png)
+
+>fjfhjsd
+
+![TRACKER](Map M.png)
+
+>jfksdlfjs
+
+![DEFINE](Map C.png)
+
+>jaihgkhfg
+
+![MAKER](Map P.png)
+![EXECUTE](Map E.png)
+
+> kjhdsklfjahsdf
+
+![Map.png]()
 
 ### Header 3
 
