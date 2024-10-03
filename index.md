@@ -26,24 +26,24 @@ layout: default
 
   This program uses Wireshark datum and a GeoLiteCity file to locate the inbound and outbound traffic from an IP source. It converts it to a KLM file, readable for Google Maps, producing a visualized version of web traffic. 
 
->hghghg
+> The first bits of code are the simplest: pip downloads, imports, and quick function naming for further codes. 
 
 ![IMPORTS](Map I.png)
 
->fjfhjsd
+> This code finds the source IP and target/traffic IPs, locates them based on longitude and latitude from the GroLiteCite file, and files them in supported KML format. The code on top is the starting work of an automated IP puller for quick IP changes, but for this project, it seemed repetitious.
 
 ![TRACKER](Map M.png)
 
->jfksdlfjs
+> This portion defines the function of the code above. It allows the code above to find the source IP, traffic IPs, and formulations of the KML file correctly. 
 
 ![DEFINE](Map C.png)
 
->jaihgkhfg
+> These are the final requirements for the KML file formation. Here, it receives its header, plot style, etc, and is combined with the other formatted parts of the file from the previous codes. 
 
 ![MAKER](Map P.png)
 ![EXECUTE](Map E.png)
 
-> kjhdsklfjahsdf
+> After taking the data and making a KML file, you can place it directly into a program accepting KML format. This map is what it should look like. 
 
 ![MAP](Map.png)
 
