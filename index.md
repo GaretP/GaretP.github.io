@@ -14,7 +14,7 @@ layout: default
 
 ![IMPORTS](Crypto Shot Imports.png)
 
-> Next is the base code, def bitcoin_code(); it pulls the URL's HTML script, looks for the updated price of the coin, and displays it.
+> Next is the base code, def bitcoin_code(); it pulls the URL's HTML script, looks for the updated price of the coin, and displays it. The xxx-xxx-xxx-xxx represents the user agents. 
 
 ![BODY](Crypto Shot Pull.png)
 
