@@ -45,7 +45,7 @@ layout: default
 
 > kjhdsklfjahsdf
 
-![Map.png]()
+![MAP](Map.png)
 
 ### Header 3
 
