@@ -12,15 +12,15 @@ layout: default
 
 > The first lines in the code are imports. There are imports for pulling HTML scripts, CSV file creation, and additional imports for expansion into new currencies.
 
-![IMPORTS](Crypto Shot Imports.png)
+![IMPORTS](Crypto I.png)
 
 > Next is the base code, def bitcoin_code(); it pulls the URL's HTML script, looks for the updated price of the coin, and displays it. The xxx-xxx-xxx-xxx represents the user agents. 
 
-![BODY](Crypto Shot Pull.png)
+![BODY](Crypto B.png)
 
 > Lastly, the code creates a CSV file and appendes the price in the file every day. The code can be further optimized, but with the simplicity of this project, it seemed redundant to do so.
 
-![APPEND](Crypto Shot Append.png)
+![APPEND](Crypto E.png)
 
 ## Header 2
 
