@@ -95,5 +95,5 @@ This is a phishing campaign set up and is the simplest of these projects. It use
 </dl>
 
 ```
-This page will be updated with newer projects after production. Thank you for reading this far.
+This page will be updated with newer projects after production.
 ```
