@@ -27,7 +27,7 @@ layout: default
 ![MAKER](Map P.png)
 ![EXECUTE](Map E.png)
 
-> After taking the data and making a KML file, you can place it directly into a program accepting KML format. This map is what it should look like. This is a basic use of the CSV file. It can be used in many more productive ways, especially in cybersecurity departments.
+> After taking the data and making a KML file, you can place it directly into a program accepting KML format. This map is what it should look like. This is a basic use of the KML file. It can be used in many more productive ways, especially in cybersecurity departments.
 
 ![MAP](Map.png)
 
