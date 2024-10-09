@@ -47,6 +47,8 @@ layout: default
 
 ![CONFIG](Net F.png)
 
+> The image below showws proper routing and configuaration of the WAP's. 
+
 ![CONFIGB](Net W.png)
 
 # Project 3: Crypto Web Scraping
