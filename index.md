@@ -95,9 +95,5 @@ This is a phishing campaign set up and is the simplest of these projects. It use
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+This page will be updated with newer projects after production. Thank you for reading this far.
 ```
