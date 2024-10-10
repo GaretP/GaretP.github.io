@@ -1,0 +1,41 @@
+from bs4 import BeautifulSoup
+import requests
+import time 
+import datetime
+import smtplib
+import csv
+import os
+import sys"
+
+def bitcoin_code():
+    URL = 'https://coinmarketcap.com/currencies/bitcoin/'
+headers = {"\XXX.XXX.XXX.XXX.XXX.XXX.XXX.XXX.XXX.XXX.XXX.XXX.XXX.XXX\"} # User agent
+page = requests.get(URL, headers=headers)
+Soup1 = BeautifulSoup(page.content, \"html.parser\")
+Soup2 = BeautifulSoup(Soup1.prettify(), \"html.parser\")
+get_price = Soup2.find('span', class_='sc-65e7f566-0 clvjgF base-text')
+if get_price:
+    bitcoin_price = price.get_text(strip=True)
+    print(\"Current Bitcoin Price:\", bitcoin_price)
+else:
+    print(\"Failed to retrieve the price. Status code:\", response.status_code)
+
+header = ['Currency', 'Price', 'Date']
+data = ['Bitcoin', bitcoin_price, today]
+#with open('CryptoProject.csv', 'w', newline='', encoding='UTF8') as f:
+    #writer = csv.writer(f)
+    #writer.writerow(header)
+    #writer.writerow(data)
+
+with open('CryptoProject.csv', 'a+', newline='', encoding='UTF8') as f:
+    writer = csv.writer(f)
+    writer.writerow(data)
+
+def update_price():
+bitcoin_code()
+today = datetime.date.today()
+header = ['Currency', 'Price', 'Date']
+data = ['Bitcoin', bitcoin_price, today]
+with open('CryptoProject.csv', 'a+', newline='', encoding='UTF8') as f:
+    writer = csv.writer(f)
+    writer.writerow(data)
