@@ -6,7 +6,7 @@ import pygeoip
 import socket 
 import requests
  
-gi = pygeoip.GeoIP(r'C:\\GeoLiteCity.dat')"
+gi = pygeoip.GeoIP(r'C:\\GeoLiteCity.dat')
 
 #def auto_ip_puller():
         site = requests.get(\"https://httpbin.org/ip\")
@@ -63,8 +63,8 @@ def main_code():
                 '</Style>'
     kmlfooter = '</Document>\\n</kml>\\n'
     kmldoc=kmlheader+plotIPs(pcap)+kmlfooter
-    print(kml.doc)"
+    print(kml.doc)
 
 def excute_kmlconverter():
     if __name__ == '__main__': # dosen't convert text into file, can be made with code
-        main_code()"
+        main_code()
